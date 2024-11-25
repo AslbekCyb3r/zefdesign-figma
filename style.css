@@ -1,0 +1,541 @@
+/* star */
+.responsiv{
+    display: flex;
+    flex-wrap: wrap;
+}
+.shapka{
+    padding: 20px;
+
+
+}
+.shapka_button{
+    background-color: rgb(22, 22, 22);
+    margin-left: 1000px;
+    color: aliceblue;
+    width: 180px;
+    height: auto;
+
+    
+   
+
+ 
+}
+.shapka_button:hover{
+
+    padding: 20px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+
+
+
+
+}
+.shapka_title{
+   margin-left: 30px;
+    align-items: center;
+    gap: 30px;
+   
+}
+.shapka_title:hover{
+    transform: scale(1.2);
+    background-color: #ffffff;
+    
+ }
+.lupa_savat{
+    width: 28px;
+    height: 28px;
+
+
+}
+/* end */
+.shapka2header{
+ 
+    margin: 100px 100px;
+}
+.button{
+    width: 136px;
+    background: #E2B013;
+    color:#FFFFFF;
+    
+
+}
+.button:hover{
+    transform: scale(1.2);
+    background-color: #ff0000;
+    color:#FFFFFF;
+}
+.sahifa2_title{
+    font-family: Jost;
+    font-size: 96px;
+    font-weight: 400;
+    line-height: 86.4px;
+    text-align: left;
+
+}
+.sahifa2_title1{
+    font-family: Jost;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+
+}
+.sahifa2_title2{
+    width: 627px;
+
+
+    font-family: Jost;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 33.8px;
+    text-align: left;
+
+}
+.end{
+    width: 522px;
+    height: 104px;
+    gap: 40px;
+
+}
+.sekshen1{
+    font-family: Jost;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 14.3px;
+    text-align: center;
+
+}
+.end {
+    width: 522px;
+    height: 104px;
+    top: 529.5px;
+    gap: 50px;
+    opacity: 0px;
+    
+    justify-content: center;
+}
+
+.image-container {
+    margin: 10px;
+    text-align: center;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+.img5{
+    width: 728px;
+    height: 785px;
+    top: 122px;
+    left: 687px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: -650px;
+    margin-left: 900px;
+}
+/* end */
+.sekshen1{
+    width: 609px;
+    height: 138px;
+    font-family: Jost;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 27.5px;
+    text-align: left;
+   margin-left: 100px; 
+   margin-top: 100px;
+   color: #000000;
+   ;   
+    
+
+}
+.sahifa3_img{
+    margin-top: 150px;
+    margin-left: 200px; 
+}
+.sahifa3_title{
+    font-family: Jost;
+    font-size: 96px;
+    font-weight: 400;
+    line-height: 86.4px;
+    text-align: left;
+    margin-left: 100px; 
+    color: #000000;
+
+}
+.buttonlar_uchun{
+    width: 610px;
+    margin-left: 100px; 
+     gap: 50px;
+}
+.button1{
+    width: 124px;
+    height: 38px;
+    background: #000000;
+    color: #FFFFFF;
+
+
+
+}
+.buttonlar_uchun2{
+    margin-top: 10px;
+    width: 610px;
+    margin-left: 130px; 
+    gap: 50px;
+}
+.buttonlar_uchun3{
+    margin-top: 10px;
+    width: 610px;
+    margin-left: 90px; 
+    gap: 50px;
+}
+/* end */
+.button_sahifa4{
+    margin-left: 300px;
+    margin-top: 200px;
+    width: 431px;
+    height: 65px;
+    gap: 0px;
+    opacity: 0px;
+    background: #000000;
+    color: #FFFFFF;
+}
+.sahifa4_4_1 {
+    width: 100%;
+    margin-left: 200px;
+}
+.rasimjon1{
+    width: 634px;
+    height: 470px;
+    gap: 0px;
+    opacity: 0px;
+    
+    
+    
+
+}
+.rasimjon2{
+    width: 634px;
+    height: 470px;
+   margin-left: 10px;
+}
+.rasimjon3{
+    width: 634px;
+    height: 470px;
+   margin-left: 10px;
+}
+.rasimjon4{
+    width: 634px;
+    height: 470px;
+   margin-left: 10px;
+}
+.orqafon1{
+   gap: 50px;
+    background: #0000000A;
+
+}
+.orqafon2{
+ 
+    background: #0000000A;
+
+}
+.orqafon3{
+ 
+    background: #0000000A;
+
+}
+.orqafon4{
+ 
+    background: #0000000A;
+
+}
+
+
+
+
+
+
+
+
+
+
+.sahifa4_4_0{
+  margin-bottom: 50px;
+}
+.rasm1{
+    margin-left: 50px;
+}
+/* end */
+
+/* start 5 sahifa */
+.button_sahifa5{
+    width: 288px;
+    height: 65px;
+    opacity: 0px;
+    font-family: Jost;
+    font-size: 36px;
+    font-weight: 400;
+    background-color: #000000;
+    color: #ffffff;
+    margin-top: 100px;
+    margin-left: 0px;
+
+}
+.sahifa_5{
+    width: 403px;
+    height: 325px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 10px;
+    background: #0000000A;
+
+
+}
+.img1{
+    width: 345px;
+    height: 215px;
+    top: 29px;
+    left: 29px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 25px 25px ;
+    
+
+
+}
+.sekshen2{
+    font-family: Jost;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 32.5px;
+    margin-top: -10px;
+    
+
+}
+/* end */
+.sahifa_5_1{
+    width: 100%;
+    height: auto;
+    margin-top: 25px;
+
+}
+.orqa_fon{
+    width: 450px;
+    background: #0000000A;
+    margin-left: 20px;
+    margin-left: 100px;
+
+}
+.rasmxon1{
+    margin: 20px 20px;
+    width: 403px;
+    height: 325px;
+    top: 0.34px;
+    gap: 0px;
+    opacity: 0px;
+   
+}
+.orqa_fon_2{
+    margin-top: 20px;
+    width: 450px;
+    background: #0000000A;
+    margin-left: 20px;
+    margin-left: 100px;
+}
+.sahifa_6{
+    width: 1320px;
+    margin-top: 25px;
+    margin-left: 300px;
+    align-items: center;
+
+
+}
+.orqa_fon_3{
+    width: 634px;
+    height: 470px;
+    background: #0000000A;
+    margin-left: 20px;
+
+}
+.sahifa6_imglarga{
+    margin: 20px 20px;
+ 
+
+
+}
+.orqa_fon_6_1{
+    background: #0000000A;
+    margin-left:20px;
+    height: 470px;
+    
+}
+.orqa_fon_6_2{
+    background: #0000000A;
+    margin-left:20px;
+    margin-top: 10px;
+}
+.orqa_fon_6_3{
+    background: #0000000A;
+    margin-left:20px;
+    height: 470px;
+    margin-top: 10px;
+}
+.orqa_fon_6_4{
+    background: #0000000A;
+    margin-left:20px;
+    height: 470px;
+    margin-top: 10px;
+}
+.orqa_fon_6_5{
+    background: #0000000A;
+    margin-left:20px;
+    height: 470px;
+    margin-top: 10px;
+}
+.orqa_fon_6_6{
+    background: #0000000A;
+    margin-left:20px;
+    height: 470px;
+    margin-top: 10px;
+}
+.orqa_fon_6_7{
+    background: #0000000A;
+    margin-left:20px;
+    height: 470px;
+    margin-top: 10px;
+}
+.orqa_fon_6_8{
+    background: #0000000A;
+    margin-left:20px;
+    height: 470px;
+    margin-top: 10px;
+}
+/* end */
+
+.shapka7{
+    width: 100%;
+    height: 1566px;
+    margin-top: 20px;
+    margin-left: 200px;
+
+}
+.shapka_orqfon{
+    width: 634px;
+    height: 470px;
+    background: #0000000A;
+    margin: 10px 10px;
+
+}
+.shapka_img1{
+margin: 20px;
+}
+.shapka_title_sekshn1{
+    font-family: Jost;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 32.5px;
+
+
+}
+.shapka_orqfon:hover{
+    transform: rotate(100deg);
+    background-color: #ff0000;
+}
+.button_sahifa5:hover{
+    background-color: #3498db;
+    animation: forwards;
+    text-transform: lowercase;
+}
+.borderjon{
+    width: 500px;
+    height: 40px;
+    top: 60px;
+    padding: 0px 10px 0px 0px;
+    gap: 0px;
+    opacity: 0px;    
+    border: 2px solid black;
+
+}
+.borderjon1{
+    width: 100px;
+    height: 40px;
+    top: 60px;
+    padding: 0px 10px 0px 0px;
+    gap: 0px;
+    opacity: 0px;    
+    border: 2px solid black;
+    background-color: #000000;
+}
+.end{
+    margin-top: 100px;
+}
+.end:hover{
+background-color: aqua;
+transform: rotate(3deg);
+width: auto;
+height: 100px;
+}
+
+.oxiri{
+    width: 650px;
+    height: 583px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.end_sekshen{
+    font-family: Jost;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    margin-left: 50px;
+
+
+}
+.end_sekshen2{
+    font-family: Jost;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    margin-left: 50px;
+}
+.end_sekshen3{
+    font-family: Jost;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    margin-left: 50px;
+}
+.otadiv{
+  margin-left: 200px;
+}
+.end_sekshen2:hover{
+    background-color: greenyellow;
+    width: auto;
+    height: 500px;
+    transform: scale(1.3);
+
+}
+.end_sekshen3:hover{
+    background-color: greenyellow;
+    width: auto;
+    height: 500px;
+    transform: scale(1.3);
+
+}
+.end_sekshen:hover{
+    background-color: greenyellow;
+    width: auto;
+    height: 500px;
+    transform: scale(1.3);
+
+}
+.theof{
+    justify-content: space-between;
+}
